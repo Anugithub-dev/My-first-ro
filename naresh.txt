@@ -1,0 +1,3 @@
+Hi this is naresh 
+how are you 'let me know once you are free
+THIS FILE I CREATED IN LOCALMACHINE AFTER GIT CLONE(CLONING REpOSITORY TO LOCAL MACHINE)
